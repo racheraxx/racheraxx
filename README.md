@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Yuni Rachera
+# 👋 Hello, I'm Yuni
 
 I'm a fresh graduate with a strong interest in Information Technology.  
 I enjoy learning new things and continuously developing myself, especially in the world of digital technology.
