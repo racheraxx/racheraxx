@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @racheraxx
-- 👀 I’m interested in game
-- 🌱 I’m currently learning Laravel
-<!--- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... --->
+# Klasifikasi Emosi pada Tweet Berbahasa Sunda
+Proyek ini bertujuan mengklasifikasikan emosi pada teks berbahasa Sunda menggunakan SVM dan Random Forest.  
+Metode: TF-IDF n-gram + SMOTE.  
+Hasil: SVM mencapai akurasi 87,5%.
 
-<!---
-racheraxx/racheraxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tools:** Python, Scikit-learn, Pandas, NLTK  
