@@ -1,6 +1,6 @@
-# Klasifikasi Emosi pada Tweet Berbahasa Sunda
-Proyek ini bertujuan mengklasifikasikan emosi pada teks berbahasa Sunda menggunakan SVM dan Random Forest.  
-Metode: TF-IDF n-gram + SMOTE.  
-Hasil: SVM mencapai akurasi 87,5%.
+# 👋 Hello, I'm Yuni Rachera
 
-**Tools:** Python, Scikit-learn, Pandas, NLTK  
+I'm a fresh graduate with a strong interest in Information Technology.  
+I enjoy learning new things and continuously developing myself, especially in the world of digital technology.
+
+Thank you for visiting my GitHub profile 🌿
